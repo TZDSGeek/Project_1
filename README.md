@@ -53,6 +53,7 @@ r-value: 0.7906679736573208, indicates there is a very strong correlation betwee
 # Analysis: +/-
 The top 50 NBA players in +/- value per game have a higher standard deviation for +/- per game compared to the rest of the league. The average +/- standard deviation for the top 50 is 12.2, compared to 9.4 for the rest of the league. Additionally, when looking at a linear regression of the league as a whole, the top 50 NBA players are mostly above the line, indicating that they would still have a higher standard deviation if the rest of the league were performing at their level.
 This means that the top 50 players have higher variability from game to game, despite overall performing much better than the rest of the league. The rest of the league is more consistently bad than the best are consistently good.
+
 ![PlusMinus_Scatter_LinRegress](https://github.com/TZDSGeek/Project_1/assets/111262299/808b9ac1-3b39-43e1-9d5e-b9ca12e92d3a)
 
 # Analysis: Assists
