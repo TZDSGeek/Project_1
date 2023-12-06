@@ -59,8 +59,7 @@ https://github.com/TZDSGeek/Project_1/blob/main/Output/PlusMinus_Scatter_LinRegr
 Compared to the rest of the league, the top 50 NBA players in the category of assists have a higher overall average assists per game. Likewise, they also have a larger average standard deviation compared to the rest of the league, with an average standard deviation of 3.2 assists compared to 1.5 assists for the rest of the league.
 However, when looking at a linear regression for the league as a whole, the top 50 NBA players for assists actually fall below the line, indicating that if the rest of the league were putting up the strong numbers that the top 50 performer were, their spread (standard deviation) would be even higher.
 Therefore, it appears that the top 50 NBA players are actually more consistent than the rest of the league in terms of assists per game
-https://github.com/TZDSGeek/Project_1/blob/main/Output/Assists_Scatter_LinRegress.png
-
+![alt text](https://github.com/TZDSGeek/Project_1/blob/main/Output/Assists_Scatter_LinRegress.png)
 # Blocks 
 - The top 5 most consistent top performers were: Myles Turner, Marcus Camby, Anthony Davis, Rudy Gobert, and Alonzo Mourning
 Significance between high performance and consistency?
