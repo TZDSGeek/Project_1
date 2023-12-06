@@ -74,11 +74,11 @@ Significance between high performance and consistency?
 ![Blocks](https://github.com/TZDSGeek/Project_1/assets/62526904/277722a2-9565-462b-9b97-4694bbb20cfb)
 
 # Steals 
-Top 5 most consistent top performers were: Chris Paul, Jason Kidd, Ricky Rubio, Allen Iverson, and Baron Davis
+* Top 5 most consistent top performers were: Chris Paul, Jason Kidd, Ricky Rubio, Allen Iverson, and Baron Davis
 Significance between high performance and consistency?
-T-statistic: 42.973780114954124
-P-value: 5.479311290129507e-51
-Reject the null hypothesis: There is a significant difference in standard deviation.
-r-value:  0.8594005618731932, does indeed indicate a strong correlation between both variables
+* T-statistic: 42.973780114954124
+* P-value: 5.479311290129507e-51
+* Reject the null hypothesis: There is a significant difference in standard deviation.
+* r-value:  0.8594005618731932, does indeed indicate a strong correlation between both variables
 
 ![Steals](https://github.com/TZDSGeek/Project_1/assets/62526904/6392f616-f5ed-45f1-b260-ed7cbc419950)
