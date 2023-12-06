@@ -78,5 +78,3 @@ P-value: 5.479311290129507e-51
 Reject the null hypothesis: There is a significant difference in standard deviation.
 r-value:  0.8594005618731932, does indeed indicate a strong correlation between both variables
 
-
-
