@@ -70,6 +70,8 @@ P-value: 2.650445452097839e-37
 Reject the null hypothesis: There is a significant difference in standard deviation.
 r-value: 0.8623664653984808, indicates a strong correlation with both variables.
 
+![Blocks](https://github.com/TZDSGeek/Project_1/assets/62526904/277722a2-9565-462b-9b97-4694bbb20cfb)
+
 # Steals 
 Top 5 most consistent top performers were: Chris Paul, Jason Kidd, Ricky Rubio, Allen Iverson, and Baron Davis
 Significance between high performance and consistency?
