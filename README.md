@@ -35,7 +35,45 @@ For each of the six statistical categories, we did the following:
 3. Identified the Top 50 performers based on per game average and designated them our "Top Performer" dataset
 4. Compared the standard deviation of the Top Performer dataset to the standard deviation of the league as a whole for the given statistical category, using t-tests, data visualizations, and linear regression.
 5. Drew conclusions about the relationship between performance and consistency based on the results
-
+   
 # Analysis
 Across all categories, we found the top NBA performers are less consistent than the rest of the league when analyzing the data using a one sample T-test. However, when looking at the difference between the top performers and the rest of the league using a linear regression model, the top performers are consistently below the expected standard deviation in each category: points, assists, rebounds, blocks, and steals. The plus/minus score was the only category where this did not hold true. So, if we were to extrapolate the lower performance level of the NBA league to the higher performance of the top players in each category, we would expect a higher level of inconsistency for the rest of the league. 
 Another key take away is that depending on the statistical analysis used, bias can sway the results of a research question. Depending on which aspect of the data we looked at, we could argue that the top 50 performers are both more consistent and less consistent than the rest of the NBA league. 
+
+# Points 
+
+Top performers have a very different level of consistency game-to-game than the typical player – p-value of 3.21e-28 Top performers are far less consistent with their scoring game-to-game than players across the league Typical top performer std for points / game = 9.0 vs. 5.5 for the league as a whole However, the linear regression shows that the majority of top performers are more consistent than expected based on the league-wide performance (The r-value is: 0.81) Notable top performers include KD & LeBron, while TMac & James Harden are among the least consistent
+
+# Rebounds
+
+The top 5 most consistent top performers: Evan Mobley, Luka Doncic, Wendell Carter Jr., Al Horford, and Julius Randle. Is there a statistical significance between high performance and consistency. The Ttest Results were (statistic=23.16368326535982, pvalue=4.755563100474603e-28, df=49)
+The pvalue suggests strong evidence against the null hypothesis.
+r-value: 0.7906679736573208, indicates there is a very strong correlation between the two variables. The top performers tend to be more consistent when compared to the rest of the league.
+
+# Analysis: +/-
+The top 50 NBA players in +/- value per game have a higher standard deviation for +/- per game compared to the rest of the league. The average +/- standard deviation for the top 50 is 12.2, compared to 9.4 for the rest of the league. Additionally, when looking at a linear regression of the league as a whole, the top 50 NBA players are mostly above the line, indicating that they would still have a higher standard deviation if the rest of the league were performing at their level.
+This means that the top 50 players have higher variability from game to game, despite overall performing much better than the rest of the league. The rest of the league is more consistently bad than the best are consistently good.
+
+# Analysis: Assists
+Compared to the rest of the league, the top 50 NBA players in the category of assists have a higher overall average assists per game. Likewise, they also have a larger average standard deviation compared to the rest of the league, with an average standard deviation of 3.2 assists compared to 1.5 assists for the rest of the league.
+However, when looking at a linear regression for the league as a whole, the top 50 NBA players for assists actually fall below the line, indicating that if the rest of the league were putting up the strong numbers that the top 50 performer were, their spread (standard deviation) would be even higher.
+Therefore, it appears that the top 50 NBA players are actually more consistent than the rest of the league in terms of assists per game
+
+# Blocks 
+- The top 5 most consistent top performers were: Myles Turner, Marcus Camby, Anthony Davis, Rudy Gobert, and Alonzo Mourning
+Significance between high performance and consistency?
+T-statistic: 32.34117091161321
+P-value: 2.650445452097839e-37
+Reject the null hypothesis: There is a significant difference in standard deviation.
+r-value: 0.8623664653984808, indicates a strong correlation with both variables.
+
+# Steals 
+Top 5 most consistent top performers were: Chris Paul, Jason Kidd, Ricky Rubio, Allen Iverson, and Baron Davis
+Significance between high performance and consistency?
+T-statistic: 42.973780114954124
+P-value: 5.479311290129507e-51
+Reject the null hypothesis: There is a significant difference in standard deviation.
+r-value:  0.8594005618731932, does indeed indicate a strong correlation between both variables
+
+
+
