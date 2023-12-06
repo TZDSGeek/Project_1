@@ -71,14 +71,21 @@ Significance between high performance and consistency?
 * Reject the null hypothesis: There is a significant difference in standard deviation.
 * r-value: 0.8623664653984808, indicates a strong correlation with both variables.
 
+The top 50 NBA players in shot blocks have a higher average per game but also more variability than the rest of the league. Surprisingly, when considering the overall league trend, these top performers fall below the line, indicating potential higher variability if the entire league matched their performance. In essence, the top 50 players appear more consistent in shot blocks compared to the rest of the league.
+
 ![Blocks](https://github.com/TZDSGeek/Project_1/assets/62526904/277722a2-9565-462b-9b97-4694bbb20cfb)
 
 # Steals 
 * Top 5 most consistent top performers were: Chris Paul, Jason Kidd, Ricky Rubio, Allen Iverson, and Baron Davis
+
 Significance between high performance and consistency?
+
 * T-statistic: 42.973780114954124
 * P-value: 5.479311290129507e-51
 * Reject the null hypothesis: There is a significant difference in standard deviation.
 * r-value:  0.8594005618731932, does indeed indicate a strong correlation between both variables
+
+The top 50 NBA players in steals have a higher average per game but also more variability than the rest of the league. Surprisingly, when considering the overall league trend, these top performers fall below the line, indicating potential higher variability if the entire league matched their performance. In essence, the top 50 players appear more consistent in steals compared to the rest of the league.
+
 
 ![Steals](https://github.com/TZDSGeek/Project_1/assets/62526904/6392f616-f5ed-45f1-b260-ed7cbc419950)
