@@ -44,6 +44,9 @@ Another key take away is that depending on the statistical analysis used, bias c
 
 Top performers have a very different level of consistency game-to-game than the typical player – p-value of 3.21e-28 Top performers are far less consistent with their scoring game-to-game than players across the league Typical top performer std for points / game = 9.0 vs. 5.5 for the league as a whole However, the linear regression shows that the majority of top performers are more consistent than expected based on the league-wide performance (The r-value is: 0.81) Notable top performers include KD & LeBron, while TMac & James Harden are among the least consistent
 
+![Points_Scatter_LinRegress](https://github.com/TZDSGeek/Project_1/assets/53709872/db8f15b6-5d39-40f9-9e87-b78273a8d80a)
+
+
 # Rebounds
 
 The top 5 most consistent top performers were Evan Mobley, Luka Doncic, Wendell Carter Jr., Al Horford, and Julius Randle. The pvalue=4.755563100474603e-28 suggests strong evidence against the null hypothesis, implying that there is a difference in the level of consistency between the top 50 players with the highest rebounding averages when compared to the rebounding averages of the rest of the league. The r-value 0.7906679736573208, indicates there is a very strong correlation between the increase in average rebounds and the increase in standard deviations. Given the data from the linear regression below, we can clearly see that the top performers tend to be more consistent when compared to the rest of the league. The highest performing players are most consistent when averaging 8 to 11 rebounds per game, after that threshold the performance can be expected to be less consistent.
