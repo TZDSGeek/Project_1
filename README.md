@@ -46,9 +46,7 @@ Top performers have a very different level of consistency game-to-game than the 
 
 # Rebounds
 
-The top 5 most consistent top performers: Evan Mobley, Luka Doncic, Wendell Carter Jr., Al Horford, and Julius Randle. Is there a statistical significance between high performance and consistency. The Ttest Results were (statistic=23.16368326535982, pvalue=4.755563100474603e-28, df=49)
-The pvalue suggests strong evidence against the null hypothesis.
-r-value: 0.7906679736573208, indicates there is a very strong correlation between the two variables. The top performers tend to be more consistent when compared to the rest of the league.
+The top 5 most consistent top performers were Evan Mobley, Luka Doncic, Wendell Carter Jr., Al Horford, and Julius Randle.The pvalue=4.755563100474603e-28 suggests strong evidence against the null hypothesis, implying that there is a difference in the level of consistency between the top 50 players with the highest rebounding averages when compared to rebounding averages of the rest of the league.The r-value 0.7906679736573208, indicates there is a very strong correlation between the increase in average rebounds and the increase in standard deviations. Given the data from the linear regression below, we can clearly see that the top performers tend to be more consistent when compared to the rest of the league. The highest performing players are most consistent when averaging 8 to 11 rebounds per game, after that threshold the performance can be expected to be less consistent.
 
 ![Top 50 players vs The NBA League_Rebounds](https://github.com/TZDSGeek/Project_1/assets/137857956/298e3658-6fe3-42e1-b413-fbd0f3a0fa20)
 
