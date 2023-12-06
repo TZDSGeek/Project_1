@@ -37,4 +37,5 @@ For each of the six statistical categories, we did the following:
 5. Drew conclusions about the relationship between performance and consistency based on the results
 
 # Analysis
-Across all categories, we found...
+Across all categories, we found the top NBA performers are less consistent than the rest of the league when analyzing the data using a one sample T-test. However, when looking at the difference between the top performers and the rest of the league using a linear regression model, the top performers are consistently below the expected standard deviation in each category: points, assists, rebounds, blocks, and steals. The plus/minus score was the only category where this did not hold true. So, if we were to extrapolate the lower performance level of the NBA league to the higher performance of the top players in each category, we would expect a higher level of inconsistency for the rest of the league. 
+Another key take away is that depending on the statistical analysis used, bias can sway the results of a research question. Depending on which aspect of the data we looked at, we could argue that the top 50 performers are both more consistent and less consistent than the rest of the NBA league. 
