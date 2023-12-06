@@ -53,13 +53,14 @@ r-value: 0.7906679736573208, indicates there is a very strong correlation betwee
 # Analysis: +/-
 The top 50 NBA players in +/- value per game have a higher standard deviation for +/- per game compared to the rest of the league. The average +/- standard deviation for the top 50 is 12.2, compared to 9.4 for the rest of the league. Additionally, when looking at a linear regression of the league as a whole, the top 50 NBA players are mostly above the line, indicating that they would still have a higher standard deviation if the rest of the league were performing at their level.
 This means that the top 50 players have higher variability from game to game, despite overall performing much better than the rest of the league. The rest of the league is more consistently bad than the best are consistently good.
-![alt text](https://github.com/TZDSGeek/Project_1/blob/main/Output/PlusMinus_Scatter_LinRegress.png?raw=true)
+![PlusMinus_Scatter_LinRegress](https://github.com/TZDSGeek/Project_1/assets/111262299/241574c6-3854-4f2a-b73a-74f507ebffd7)
 
 # Analysis: Assists
 Compared to the rest of the league, the top 50 NBA players in the category of assists have a higher overall average assists per game. Likewise, they also have a larger average standard deviation compared to the rest of the league, with an average standard deviation of 3.2 assists compared to 1.5 assists for the rest of the league.
 However, when looking at a linear regression for the league as a whole, the top 50 NBA players for assists actually fall below the line, indicating that if the rest of the league were putting up the strong numbers that the top 50 performer were, their spread (standard deviation) would be even higher.
 Therefore, it appears that the top 50 NBA players are actually more consistent than the rest of the league in terms of assists per game
-![alt text](https://github.com/TZDSGeek/Project_1/blob/main/Output/Assists_Scatter_LinRegress.png?raw=true)
+![Assists_Scatter_LinRegress](https://github.com/TZDSGeek/Project_1/assets/111262299/201146aa-1705-4984-8e45-740997631e8d)
+
 # Blocks 
 - The top 5 most consistent top performers were: Myles Turner, Marcus Camby, Anthony Davis, Rudy Gobert, and Alonzo Mourning
 Significance between high performance and consistency?
