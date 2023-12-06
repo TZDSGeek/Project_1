@@ -50,6 +50,8 @@ The top 5 most consistent top performers: Evan Mobley, Luka Doncic, Wendell Cart
 The pvalue suggests strong evidence against the null hypothesis.
 r-value: 0.7906679736573208, indicates there is a very strong correlation between the two variables. The top performers tend to be more consistent when compared to the rest of the league.
 
+![Top 50 players vs The NBA League_Rebounds](https://github.com/TZDSGeek/Project_1/assets/137857956/298e3658-6fe3-42e1-b413-fbd0f3a0fa20)
+
 # Analysis: +/-
 The top 50 NBA players in +/- value per game have a higher standard deviation for +/- per game compared to the rest of the league. The average +/- standard deviation for the top 50 is 12.2, compared to 9.4 for the rest of the league. Additionally, when looking at a linear regression of the league as a whole, the top 50 NBA players are mostly above the line, indicating that they would still have a higher standard deviation if the rest of the league were performing at their level.
 This means that the top 50 players have higher variability from game to game, despite overall performing much better than the rest of the league. The rest of the league is more consistently bad than the best are consistently good.
